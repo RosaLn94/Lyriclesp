@@ -1,85 +1,91 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
+
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
-    </div>
+    <h1><img src="@/assets/logo.svg" class="logo" />yricle<img src="@/assets/dragonite.gif" width="125" height="125" class="gif" /></h1>
+    
   </header>
+  <div class="container">
+    <div class="hero">
+      <h1>Discover Your Lyrics</h1>
+      <p>Find the lyrics that speak to you and your mood.</p>
+      <a href="#" class="btn">Get Started</a>
+    </div>
+  </div>
+  <footer>
+    <p>&copy; 2024 Lyriclesp. All rights reserved.</p>
+  </footer>
 
   <RouterView />
 </template>
 
 <style scoped>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #231f1f;
+  color: #333;
+}
+
 header {
-  line-height: 1.5;
-  max-height: 100vh;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-nav {
-  width: 100%;
-  font-size: 12px;
+  background-color: #250648;
+  color: white;
+  padding: 20px;
   text-align: center;
-  margin-top: 2rem;
 }
 
-nav a.router-link-exact-active {
-  color: var(--color-text);
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background-color: #231f1f;
 }
 
-nav a {
-  display: inline-block;
-  padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
+.hero h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
 }
 
-nav a:first-of-type {
-  border: 0;
+.hero p {
+  font-size: 1.5em;
+  margin-bottom: 20px;
 }
 
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
+.btn {
+  background-color: #1e90ff;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+}
 
-  .logo {
-    margin: 0 2rem 0 0;
-  }
+.btn:hover {
+  background-color: #0d75d6;
+}
 
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
+.logo{
+  width: 5%;
+}
+.gif{
+  margin-right: 0;
+}
 
-  nav {
-    text-align: left;
-    margin-left: -1rem;
-    font-size: 1rem;
-
-    padding: 1rem 0;
-    margin-top: 1rem;
-  }
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }
 </style>

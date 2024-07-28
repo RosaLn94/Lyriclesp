@@ -1,0 +1,1084 @@
+{
+    "artistas": [
+        {
+            "nombre": "Shakira",
+            "canciones": [
+                "Hips Don't Lie",
+                "Waka Waka (This Time for Africa)",
+                "La Tortura",
+                "Chantaje",
+                "Antología",
+                "Loba",
+                "Ciega, Sordomuda",
+                "Ojos Así",
+                "Me Enamoré",
+                "Estoy Aquí"
+            ]
+        },
+        {
+            "nombre": "Luis Miguel",
+            "canciones": [
+                "La Incondicional",
+                "Ahora Te Puedes Marchar",
+                "Suave",
+                "Culpable o No (Miénteme Como Siempre)",
+                "La Bikina",
+                "Hasta Que Me Olvides",
+                "Cuando Calienta el Sol",
+                "Entrégate",
+                "Fría Como el Viento",
+                "Por Debajo de la Mesa"
+            ]
+        },
+        {
+            "nombre": "Enrique Iglesias",
+            "canciones": [
+                "Bailando",
+                "Hero",
+                "El Perdedor",
+                "Duele El Corazón",
+                "Súbeme La Radio",
+                "Nunca Te Olvidaré",
+                "Experiencia Religiosa",
+                "Lloro Por Ti",
+                "Escape",
+                "Tonight (I'm Lovin' You)"
+            ]
+        },
+        {
+            "nombre": "Celia Cruz",
+            "canciones": [
+                "La Vida Es Un Carnaval",
+                "Quimbara",
+                "Guantanamera",
+                "Ríe y Llora",
+                "Te Busco",
+                "Bemba Colorá",
+                "La Negra Tiene Tumbao",
+                "Oye Cómo Va",
+                "Tu Voz",
+                "Usted Abusó"
+            ]
+        },
+        {
+            "nombre": "Juan Gabriel",
+            "canciones": [
+                "Amor Eterno",
+                "Querida",
+                "Hasta Que Te Conocí",
+                "Se Me Olvidó Otra Vez",
+                "Así Fue",
+                "Abrázame Muy Fuerte",
+                "Te Lo Pido Por Favor",
+                "Yo No Nací Para Amar",
+                "El Noa Noa",
+                "No Tengo Dinero"
+            ]
+        },
+        {
+            "nombre": "Rosalía",
+            "canciones": [
+                "Malamente",
+                "Con Altura",
+                "Pienso En Tu Mirá",
+                "Aute Cuture",
+                "Yo x Ti, Tu x Mi",
+                "Di Mi Nombre",
+                "Juro Que",
+                "La Fama",
+                "Dolerme",
+                "Despechá"
+            ]
+        },
+        {
+            "nombre": "Ricky Martin",
+            "canciones": [
+                "Livin' la Vida Loca",
+                "Vente Pa' Ca",
+                "La Mordidita",
+                "María",
+                "She Bangs",
+                "La Copa de la Vida",
+                "Tal Vez",
+                "Te Extraño, Te Olvido, Te Amo",
+                "Fuego de Noche, Nieve de Día",
+                "Vuelve"
+            ]
+        },
+        {
+            "nombre": "Alejandro Sanz",
+            "canciones": [
+                "Corazón Partío",
+                "Amiga Mía",
+                "Y, ¿Si Fuera Ella?",
+                "Mi Soledad y Yo",
+                "Desde Cuando",
+                "No Me Compares",
+                "El Alma al Aire",
+                "A Que No Me Dejas",
+                "Looking for Paradise",
+                "Deja Que Te Bese"
+            ]
+        },
+        {
+            "nombre": "Marc Anthony",
+            "canciones": [
+                "Vivir Mi Vida",
+                "Ahora Quién",
+                "Valió la Pena",
+                "Flor Pálida",
+                "Tu Amor Me Hace Bien",
+                "Te Conozco Bien",
+                "Y Hubo Alguien",
+                "Hasta Ayer",
+                "No Me Ames",
+                "¿Qué Precio Tiene el Cielo?"
+            ]
+        },
+        {
+            "nombre": "Daddy Yankee",
+            "canciones": [
+                "Gasolina",
+                "Despacito",
+                "Dura",
+                "Shaky Shaky",
+                "Lo Que Pasó, Pasó",
+                "Rompe",
+                "Ella Me Levantó",
+                "La Despedida",
+                "Limbo",
+                "Con Calma"
+            ]
+        },
+        {
+            "nombre": "Thalía",
+            "canciones": [
+                "Amor a la Mexicana",
+                "Piel Morena",
+                "Arrasando",
+                "No Me Acuerdo",
+                "A Quién le Importa",
+                "Desde Esa Noche",
+                "Qué Será de Ti",
+                "Equivocada",
+                "Tú y Yo",
+                "Te Perdiste Mi Amor"
+            ]
+        },
+        {
+            "nombre": "Selena",
+            "canciones": [
+                "Bidi Bidi Bom Bom",
+                "Como La Flor",
+                "Amor Prohibido",
+                "No Me Queda Más",
+                "Dreaming of You",
+                "El Chico del Apartamento 512",
+                "Si Una Vez",
+                "Fotos y Recuerdos",
+                "La Carcacha",
+                "I Could Fall in Love"
+            ]
+        },
+        {
+            "nombre": "Juanes",
+            "canciones": [
+                "La Camisa Negra",
+                "A Dios le Pido",
+                "Me Enamora",
+                "Es Por Ti",
+                "Volverte a Ver",
+                "Para Tu Amor",
+                "Nada Valgo Sin Tu Amor",
+                "Fíjate Bien",
+                "Mala Gente",
+                "Yerbatero"
+            ]
+        },
+        {
+            "nombre": "Maná",
+            "canciones": [
+                "Rayando el Sol",
+                "Labios Compartidos",
+                "Bendita Tu Luz",
+                "Clavado en un Bar",
+                "Mariposa Traicionera",
+                "Vivir Sin Aire",
+                "Eres Mi Religión",
+                "En el Muelle de San Blas",
+                "El Verdadero Amor Perdona",
+                "Oye Mi Amor"
+            ]
+        },
+        {
+            "nombre": "Pablo Alborán",
+            "canciones": [
+                "Solamente Tú",
+                "Te He Echado de Menos",
+                "Por Fin",
+                "Dónde Está el Amor",
+                "Pasos de Cero",
+                "Saturno",
+                "La Escalera",
+                "Perdóname",
+                "Recuérdame",
+                "Quimera"
+            ]
+        },
+        {
+            "nombre": "J Balvin",
+            "canciones": [
+                "Mi Gente",
+                "Ginza",
+                "Ay Vamos",
+                "X",
+                "Safari",
+                "Reggaetón",
+                "Ambiente",
+                "Bobo",
+                "Tranquila",
+                "Morado"
+            ]
+        },
+        {
+            "nombre": "Carlos Vives",
+            "canciones": [
+                "La Bicicleta",
+                "Fruta Fresca",
+                "Volví a Nacer",
+                "Carito",
+                "Robarte un Beso",
+                "Déjame Entrar",
+                "Nota de Amor",
+                "La Gota Fría",
+                "Bailar Contigo",
+                "Cuando Nos Volvamos a Encontrar"
+            ]
+        },
+        {
+            "nombre": "Bad Bunny",
+            "canciones": [
+                "Safaera",
+                "Dákiti",
+                "Yo Perreo Sola",
+                "Vete",
+                "Callaíta",
+                "Mía",
+                "La Canción",
+                "Te Boté",
+                "I Like It",
+                "Amorfoda"
+            ]
+        },
+        {
+            "nombre": "Ozuna",
+            "canciones": [
+                "Taki Taki",
+                "Criminal",
+                "Te Boté",
+                "Baila Baila Baila",
+                "Se Preparó",
+                "La Modelo",
+                "Vaina Loca",
+                "El Farsante",
+                "Escápate Conmigo",
+                "Dile Que Tú Me Quieres"
+            ]
+        },
+        {
+            "nombre": "Maluma",
+            "canciones": [
+                "Felices los 4",
+                "Hawái",
+                "El Perdedor",
+                "Borró Cassette",
+                "Corazón",
+                "4 Babys",
+                "HP",
+                "La Temperatura",
+                "Sin Contrato",
+                "11 PM"
+            ]
+        },
+        {
+            "nombre": "Gloria Trevi",
+            "canciones": [
+                "Todos Me Miran",
+                "Dr. Psiquiatra",
+                "Pelo Suelto",
+                "El Recuento de los Daños",
+                "Cinco Minutos",
+                "Con los Ojos Cerrados",
+                "Me Río de Ti",
+                "Vestida de Azúcar",
+                "No Querías Lastimarme",
+                "La Papa Sin Catsup"
+            ]
+        },
+        {
+            "nombre": "Ricardo Arjona",
+            "canciones": [
+                "Mujeres",
+                "El Problema",
+                "Fuiste Tú",
+                "Te Conozco",
+                "Historia de Taxi",
+                "Minutos",
+                "Dime Que No",
+                "Si el Norte Fuera el Sur",
+                "A la Medida",
+                "No Te Conozco"
+            ]
+        },
+        {
+            "nombre": "Julio Iglesias",
+            "canciones": [
+                "Me Olvidé de Vivir",
+                "La Carretera",
+                "Hey!",
+                "De Niña a Mujer",
+                "Baila Morena",
+                "Abrázame",
+                "Un Canto a Galicia",
+                "El Amor",
+                "Me Va, Me Va",
+                "Manuela"
+            ]
+        },
+        {
+            "nombre": "Camila",
+            "canciones": [
+                "Todo Cambió",
+                "Mientes",
+                "Bésame",
+                "Aléjate de Mí",
+                "De Qué Me Sirve la Vida",
+                "Abrázame",
+                "Perdón",
+                "Coleccionista de Canciones",
+                "La Vida Entera",
+                "Decidiste Dejarme"
+            ]
+        },
+        {
+            "nombre": "La Oreja de Van Gogh",
+            "canciones": [
+                "Rosas",
+                "La Playa",
+                "Muñeca de Trapo",
+                "Puedes Contar Conmigo",
+                "Cuídate",
+                "El 28",
+                "Dulce Locura",
+                "Jueves",
+                "Cometas por el Cielo",
+                "El Último Vals"
+            ]
+        },
+        {
+            "nombre": "Alejandra Guzmán",
+            "canciones": [
+                "Eternamente Bella",
+                "Hacer el Amor Con Otro",
+                "Mírala, Míralo",
+                "Reina de Corazones",
+                "Yo Te Esperaba",
+                "Volverte a Amar",
+                "Hey Güera",
+                "Mala Hierba",
+                "Día de Suerte",
+                "Mi Peor Error"
+            ]
+        },
+        {
+            "nombre": "David Bisbal",
+            "canciones": [
+                "Bulería",
+                "Ave María",
+                "Dígale",
+                "Esclavo de Sus Besos",
+                "Silencio",
+                "Mi Princesa",
+                "Para Enamorarte de Mí",
+                "Diez Mil Maneras",
+                "Culpable",
+                "Tu y Yo"
+            ]
+        },
+        {
+            "nombre": "Chayanne",
+            "canciones": [
+                "Torero",
+                "Dejaría Todo",
+                "Un Siglo Sin Ti",
+                "Y Tú Te Vas",
+                "Provócame",
+                "Salomé",
+                "Lo Dejaría Todo",
+                "Humanos a Marte",
+                "Atado a Tu Amor",
+                "Me Enamoré de Ti"
+            ]
+        },
+        {
+            "nombre": "Sin Bandera",
+            "canciones": [
+                "Entra en Mi Vida",
+                "Mientes Tan Bien",
+                "Que Lloro",
+                "Kilómetros",
+                "Te Vi Venir",
+                "Suelta Mi Mano",
+                "Sirena",
+                "Que Me Alcance la Vida",
+                "De Viaje",
+                "Amor Real"
+            ]
+        },
+        {
+            "nombre": "Raphael",
+            "canciones": [
+                "Mi Gran Noche",
+                "Yo Soy Aquel",
+                "Digan Lo Que Digan",
+                "Como Yo Te Amo",
+                "Estar Enamorado",
+                "Escándalo",
+                "Que Sabe Nadie",
+                "Cierro Mis Ojos",
+                "El Tamborilero",
+                "En Carne Viva"
+            ]
+        },
+        {
+            "nombre": "Luis Fonsi",
+            "canciones": [
+                "Despacito",
+                "No Me Doy Por Vencido",
+                "Aquí Estoy Yo",
+                "Échame La Culpa",
+                "Imagíname Sin Ti",
+                "Nada Es Para Siempre",
+                "Gritar",
+                "Corazón en la Maleta",
+                "Quién Te Dijo Eso",
+                "Llegaste Tú"
+            ]
+        },
+        {
+            "nombre": "Mónica Naranjo",
+            "canciones": [
+                "Sobreviviré",
+                "Desátame",
+                "Empiezo a Recordarte",
+                "Pantera en Libertad",
+                "Solo Se Vive Una Vez",
+                "Amor y Lujo",
+                "Todo Mentira",
+                "Europa",
+                "Ámame o Déjame",
+                "Perra Enamorada"
+            ]
+        },
+        {
+            "nombre": "Nicky Jam",
+            "canciones": [
+                "El Perdón",
+                "Travesuras",
+                "Hasta el Amanecer",
+                "X",
+                "Te Busco",
+                "Voy a Beber",
+                "El Amante",
+                "Si Tú la Ves",
+                "Bella y Sensual",
+                "Jaleo"
+            ]
+        },
+        {
+            "nombre": "La India",
+            "canciones": [
+                "Ese Hombre",
+                "Dicen Que Soy",
+                "Nunca Voy a Olvidarte",
+                "Mi Mayor Venganza",
+                "Me Canse de Ser la Otra",
+                "Costumbres",
+                "Si Tú Eres Mi Hombre",
+                "Sedúceme",
+                "Soy Mujer",
+                "Traición"
+            ]
+        },
+        {
+            "nombre": "Pimpinela",
+            "canciones": [
+                "Olvídame y Pega la Vuelta",
+                "A Esa",
+                "Dímelo Delante de Ella",
+                "Valiente",
+                "El Amor No Se Puede Olvidar",
+                "Hermanos",
+                "Me Hace Falta una Flor",
+                "Por Ese Hombre",
+                "Vivir sin Ti No Puedo",
+                "Doble Vida"
+            ]
+        },
+        {
+            "nombre": "Reik",
+            "canciones": [
+                "Noviembre Sin Ti",
+                "Yo Quisiera",
+                "Sabes",
+                "Ya Me Enteré",
+                "Me Niego",
+                "Qué Gano Olvidándote",
+                "Voy a Olvidarte",
+                "Creo en Ti",
+                "Fui",
+                "Tu Mirada"
+            ]
+        },
+        {
+            "nombre": "Amaia Montero",
+            "canciones": [
+                "Quiero Ser",
+                "Caminando",
+                "Tu Mirada",
+                "La Tormenta",
+                "Palabras",
+                "Darte Mi Vida",
+                "Te Voy a Decir una Cosa",
+                "4\"",
+                "Los Abrazos Rotos",
+                "Mirando al Mar"
+            ]
+        },
+        {
+            "nombre": "Vanesa Martín",
+            "canciones": [
+                "De Tus Ojos",
+                "Polvo de Mariposas",
+                "Arráncame",
+                "Complicidad",
+                "Que No",
+                "Te Has Perdido Quién Soy",
+                "Inventas",
+                "Frenar Enero",
+                "Santo y Seña",
+                "Hablarán de Ti y de Mí"
+            ]
+        },
+        {
+            "nombre": "Aitana",
+            "canciones": [
+                "Teléfono",
+                "Lo Malo",
+                "Vas a Quedarte",
+                "Nada Sale Mal",
+                "Spoiler",
+                "Me Quedo",
+                "Ni Una Más",
+                "Arde",
+                "11 Razones",
+                "Tu Foto del DNI"
+            ]
+        },
+        {
+            "nombre": "Kany García",
+            "canciones": [
+                "Hoy Ya Me Voy",
+                "Para Siempre",
+                "Confieso",
+                "Aquí",
+                "Soy Yo",
+                "Que Te Vaya Mal",
+                "Duele Menos",
+                "Perfecto Para Mí",
+                "Contra el Viento",
+                "Amigos"
+            ]
+        },
+        {
+            "nombre": "Sebastián Yatra",
+            "canciones": [
+                "Traicionera",
+                "No Hay Nadie Más",
+                "Un Año",
+                "Ya No Tiene Novio",
+                "Robarte un Beso",
+                "Cristina",
+                "TBT",
+                "Cómo Mirarte",
+                "Por Perro",
+                "Runaway"
+            ]
+        },
+        {
+            "nombre": "José Luis Rodríguez 'El Puma'",
+            "canciones": [
+                "Dueño de Nada",
+                "Pavo Real",
+                "Culpable Soy Yo",
+                "Sentenciado Estoy",
+                "Vivir Lo Nuestro",
+                "Sabor a Sal",
+                "Te Necesito",
+                "Voy a Conquistarte",
+                "Que Bueno Es Esto",
+                "Me Volvieron a Hablar de Ella"
+            ]
+        },
+        {
+            "nombre": "Ricardo Montaner",
+            "canciones": [
+                "Tan Enamorados",
+                "La Cima del Cielo",
+                "Me Va a Extrañar",
+                "Déjame Llorar",
+                "Baila conmigo",
+                "Te Adoro",
+                "Ven Morenita",
+                "La Gloria de Dios",
+                "La Mujer de mi Vida",
+                "Ojalá"
+            ]
+        },
+        {
+            "nombre": "Joan Manuel Serrat",
+            "canciones": [
+                "Mediterráneo",
+                "Cantares",
+                "Penélope",
+                "Tu Nombre Me Sabe a Yerba",
+                "La Saeta",
+                "Un Caballo Llamado Muerte",
+                "Para Vivir",
+                "Aquellas Pequeñas Cosas",
+                "Luz de Luna",
+                "Esos Locos Bajitos"
+            ]
+        },
+        {
+            "nombre": "Ana Gabriel",
+            "canciones": [
+                "Quién Como Tú",
+                "Simplemente Amigos",
+                "Luna",
+                "No Entiendo",
+                "A Mi Gente",
+                "Ay Amor",
+                "Baila",
+                "Rosa y Espina",
+                "Luna de Octubre",
+                "Amor Eterno"
+            ]
+        },
+        {
+            "nombre": "Margarita La Diosa de la Cumbia",
+            "canciones": [
+                "Piquete",
+                "A Mí Me Gustan Mayores",
+                "Me Vuelves Loco",
+                "Chachachá",
+                "Cumbia Sobre el Río",
+                "Pa' Bailar",
+                "Veneno",
+                "Cumbia y Salsa",
+                "La Chica de la Cumbia",
+                "Dile Que Vuelve"
+            ]
+        },
+        {
+            "nombre": "El Canto del Loco",
+            "canciones": [
+                "Zapatillas",
+                "Besos",
+                "Ya Nada Volverá a Ser Como Antes",
+                "Eres Tonto",
+                "Por Ti",
+                "Gente",
+                "La Madre de José",
+                "Un Día Perfecto",
+                "Besos",
+                "Son Sueños"
+            ]
+        },
+        {
+            "nombre": "Estopa",
+            "canciones": [
+                "La Raja de Tu Falda",
+                "Como Camarón",
+                "Vivirlo",
+                "El Run Run",
+                "Me Quede a Tu Lado",
+                "Partiendo la Caja",
+                "Tu Calorro",
+                "Cacho a Cacho",
+                "Lento",
+                "Despedida"
+            ]
+        },
+        {
+            "nombre": "Lola Índigo",
+            "canciones": [
+                "Ya No Te Quiero",
+                "Mienteme",
+                "Tóxica",
+                "Lola Bunny",
+                "4 Besos",
+                "Mala Cara",
+                "Tú y Yo",
+                "Conmigo",
+                "Mami",
+                "Ya No Te Quiero"
+            ]
+        },
+        {
+            "nombre": "Chanel",
+            "canciones": [
+                "SloMo",
+                "Toke",
+                "Dura",
+                "Sola",
+                "Cita",
+                "Te Quiero Más",
+                "SloMo (Remix)",
+                "Hecha Pa' Lante",
+                "Nadie Más",
+                "Baila"
+            ]
+        },
+        {
+            "nombre": "Ana Mena",
+            "canciones": [
+                "Dúo",
+                "Como el Agua",
+                "Ayer Me Llamó Mi Ex",
+                "Ya No Te Quiero",
+                "No Soy Yo",
+                "El Remedio",
+                "Quiero Ser",
+                "Muero por Ti",
+                "Ya No Te Quiero (Remix)",
+                "Más Que Amor"
+            ]
+        },
+        {
+            "nombre": "Amaral",
+            "canciones": [
+                "Salir Corriendo",
+                "Rosalía",
+                "Moriría por Vos",
+                "El Universo Sobre Mí",
+                "Como un Explosión",
+                "Salir Corriendo",
+                "Salir Corriendo",
+                "Salir Corriendo",
+                "Salir Corriendo",
+                "Salir Corriendo"
+            ]
+        },
+        {
+            "nombre": "Emilia",
+            "canciones": [
+                "Rápido",
+                "Baila Conmigo",
+                "La Chain",
+                "No Te Quiero Ver",
+                "Duro",
+                "Canta Conmigo",
+                "La Cadena",
+                "Yo Lo Siento",
+                "Mi Temor",
+                "Acelerado"
+            ]
+        },
+        {
+            "nombre": "Lali Espósito",
+            "canciones": [
+                "LALIGERA",
+                "Baila",
+                "Fuiste Tú",
+                "Boomerang",
+                "Soy",
+                "Una Na",
+                "Del otro lado",
+                "Caliente",
+                "Fascinada",
+                "Todo Lo Que Soy"
+            ]
+        },
+        {
+            "nombre": "Camila Cabello",
+            "canciones": [
+                "Havana",
+                "Señorita",
+                "Never Be the Same",
+                "Liar",
+                "My Oh My",
+                "Bad Things",
+                "Consequences",
+                "Cry for Me",
+                "Camila",
+                "Shelly"
+            ]
+        },
+        {
+            "nombre": "Cali y El Dandee",
+            "canciones": [
+                "La Estrategia",
+                "Locura",
+                "Te Voy a Olvidar",
+                "Yo Te Esperaré",
+                "La Rumba",
+                "El Rey",
+                "Loco",
+                "Punto de Partida",
+                "Por Ella",
+                "La Vuelta al Mundo"
+            ]
+        },
+        {
+            "nombre": "Abraham Mateo",
+            "canciones": [
+                "Señorita",
+                "Girlfriend",
+                "Loco Enamorado",
+                "Todo Mi Amor",
+                "Quédate Conmigo",
+                "Noche y Día",
+                "Dame, Dame",
+                "Dímelo",
+                "Sola",
+                "Me Vuelves Loco"
+            ]
+        },
+        {
+            "nombre": "Camela",
+            "canciones": [
+                "Nunca Debí Enamorarme",
+                "Cuando Zarpa el Amor",
+                "Sueño Contigo",
+                "Llamado de Emergencia",
+                "Mi Pueblo",
+                "Amor de Hombre",
+                "Pero Te Vas a Arrepentir",
+                "El Rey de la Fiesta",
+                "Más de Ti",
+                "La Isla del Amor"
+            ]
+        },
+        {
+            "nombre": "La Húngara",
+            "canciones": [
+                "Como Te Amo",
+                "Tú Eres Mi Ladrón",
+                "Mi Corazón",
+                "Déjala",
+                "Te Lo Pido por Favor",
+                "No Me Olvides",
+                "Entre el Mar y una Estrella",
+                "La Cumbia del Mole",
+                "Vivir Mi Vida",
+                "Quiero Ser Libre"
+            ]
+        },
+        {
+            "nombre": "Becky G",
+            "canciones": [
+                "Mayores",
+                "Sin Pijama",
+                "Shower",
+                "Doll",
+                "Mambo",
+                "Cantante",
+                "24/7",
+                "Sola",
+                "Ram Pam Pam",
+                "La Respuesta"
+            ]
+        },
+        {
+            "nombre": "Karol G",
+            "canciones": [
+                "Bichota",
+                "Tusa",
+                "Ahora Me Llama",
+                "Ocean",
+                "Poblado",
+                "Ay Dios Mío",
+                "Sejodioto",
+                "La Vida Continuó",
+                "Sola",
+                "Dime Tú"
+            ]
+        },
+        {
+            "nombre": "La Quinta Estación",
+            "canciones": [
+                "Algo Más",
+                "Perdición",
+                "Que Te Quiero",
+                "Me Pregunto",
+                "El Sol No Regresa",
+                "Cuando Todo Está Perdido",
+                "No Existen Técnicas para Olvidar",
+                "Sueños de una Noche de Verano",
+                "Tú y Yo",
+                "Te Ruego"
+            ]
+        },
+        {
+            "nombre": "El Sueño de Morfeo",
+            "canciones": [
+                "Para Siempre",
+                "El Principio del Comienzo",
+                "Ojeras",
+                "Nunca Volverá",
+                "Días Grises",
+                "Sucede",
+                "No Quiero Saber",
+                "Lo Que Perdí",
+                "No Más",
+                "Con el Corazón en la Mano"
+            ]
+        },
+        {
+            "nombre": "Romeo Santos",
+            "canciones": [
+                "Propuesta Indecente",
+                "Eres Mía",
+                "Imitadora",
+                "Héroe Favorito",
+                "Sobredosis",
+                "Hilito",
+                "Bella y Sensual",
+                "Noche de Sexo",
+                "Promise",
+                "La Diabla"
+            ]
+        },
+        {
+            "nombre": "CNCO",
+            "canciones": [
+                "Reggaetón Lento",
+                "Hey DJ",
+                "Mamita",
+                "Tan Fácil",
+                "Para Enamorarte",
+                "Quisiera",
+                "Bonita",
+                "La Equivocada",
+                "Se Vuelve Loca",
+                "De Cero"
+            ]
+        },
+        {
+            "nombre": "Morat",
+            "canciones": [
+                "Cómo Te Atreves",
+                "Besos en Guerra",
+                "Yo Contigo, Tú Conmigo",
+                "Amor Con Hielo",
+                "Cuando Nadie Ve",
+                "La Correcta",
+                "Balas Perdidas",
+                "Mi Nuevo Vicio",
+                "No Termino",
+                "Besos en Guerra"
+            ]
+        },
+        {
+            "nombre": "Quevedo",
+            "canciones": [
+                "Quédate",
+                "Playa del Inglés",
+                "Sin Señal",
+                "Ahora Qué",
+                "Cayo la Noche",
+                "Punto G",
+                "Respuesta Cero",
+                "Universitaria",
+                "Bzrp Music Sessions, Vol. 52",
+                "Freaky"
+            ]
+        },
+        {
+            "nombre": "Rauw Alejandro",
+            "canciones": [
+                "Todo de Ti",
+                "2/Catorce",
+                "Enchule",
+                "Tattoo",
+                "Nostálgico",
+                "Desenfocao",
+                "Fantasías",
+                "Reloj",
+                "Que le dé",
+                "Hunter"
+            ]
+        },
+        {
+            "nombre": "Pignoise",
+            "canciones": [
+                "Nada Que Perder",
+                "Te Entiendo",
+                "Estoy Enfermo",
+                "Todo Me Da Igual",
+                "Pienso en Positivo",
+                "Por Verte",
+                "Sigo Llorando",
+                "Me Quedo en el Infierno",
+                "El Tiempo Pasará",
+                "Hasta el Final"
+            ]
+        },
+        {
+            "nombre": "Despistaos",
+            "canciones": [
+                "Física o Química",
+                "Cada Dos Minutos",
+                "Y Miramé",
+                "Gracias",
+                "Lo Contrario de Ninguno",
+                "El Silencio",
+                "Estrella",
+                "Los Días Contados",
+                "Caricias en tu Espalda",
+                "Mi Accidente Preferido"
+            ]
+        },
+        {
+            "nombre": "Zion & Lennox",
+            "canciones": [
+                "Otra Vez",
+                "La Player (Bandolera)",
+                "Embriágame",
+                "Te Quiero",
+                "Pierdo La Cabeza",
+                "Hola",
+                "No Es Justo",
+                "Hoy Lo Siento",
+                "Motivan2",
+                "Mi Tesoro"
+            ]
+        },
+        {
+            "nombre": "Maria Isabel",
+            "canciones": [
+                "Antes Muerta Que Sencilla",
+                "No Me Toques las Palmas",
+                "Pues Va a Ser Que No",
+                "De Qué Vas",
+                "Los Zapatos de Tacón",
+                "En Mi Jardín",
+                "Número 2",
+                "Toda la Noche",
+                "Tu Mirada",
+                "Ven Conmigo"
+            ]
+        }
+    ]
+}

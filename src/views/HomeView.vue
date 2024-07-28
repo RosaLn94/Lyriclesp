@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import SpotifyComponent from '@/components/SpotifyComponent.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <SpotifyComponent></SpotifyComponent>
   </main>
 </template>
