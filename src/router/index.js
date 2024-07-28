@@ -1,8 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import SpotifyComponent from '@/components/SpotifyComponent.vue'
-import Callback from '@/components/Callback.vue'
-import Profile from '@/components/Profile.vue'
+import LetraComponent from '@/components/LetraComponent.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -12,9 +10,7 @@ const router = createRouter({
       name: 'home',
       component: HomeView
     },
-    { path: '/spotify', component: SpotifyComponent },
-    { path: '/callback', component: Callback },
-    { path: '/profile', component: Profile }
+    { path: '/letras', component: LetraComponent},
 /*     {
       path: '/about',
       name: 'about',

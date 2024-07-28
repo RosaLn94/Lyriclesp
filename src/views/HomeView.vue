@@ -1,9 +1,15 @@
 <script setup>
-import SpotifyComponent from '@/components/SpotifyComponent.vue'
+import LetraComponent from '@/components/LetraComponent.vue';
 </script>
 
 <template>
   <main>
-    <SpotifyComponent></SpotifyComponent>
+    <Suspense>
+      <LetraComponent></LetraComponent>
+      <template #fallback>
+        Cargando...
+      </template>
+    </Suspense>
+   
   </main>
 </template>
