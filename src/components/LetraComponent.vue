@@ -8,6 +8,7 @@
 import artistasJson from '@/assets/artists.json';
 import axios from 'axios';
 import { onMounted } from 'vue';
+import './../firebase'; 
 
 const artistas = artistasJson.artistas;
 const randomArtista = getRandomNumber(0, artistas.length - 1);
@@ -17,7 +18,11 @@ const cancionElegida = artistaElegido.canciones[randomCancion];
 
 const fetchData = async () => {
     try {
-        const response = await axios.get(`https://api.lyrics.ovh/v1/${artistaElegido.nombre}/${cancionElegida}`);
+        //const response = await axios.get(`https://api.lyrics.ovh/v1/${artistaElegido.nombre}/${cancionElegida}`);
+        const response = await axios.get(`https://lyriclesp-default-rtdb.europe-west1.firebasedatabase.app/Letras.json`, {
+          headers: {
+            'Access-Control-Allow-Origin': '*'
+          }});
         const letra = response.data;
         console.log("LETRA", letra);
         return letra;
