@@ -770,45 +770,24 @@
             "nombre": "Amaral",
             "canciones": [
                 "Salir Corriendo",
-                "Rosalía",
+                "Como Hablar",
                 "Moriría por Vos",
                 "El Universo Sobre Mí",
-                "Como un Explosión",
-                "Salir Corriendo",
-                "Salir Corriendo",
-                "Salir Corriendo",
-                "Salir Corriendo",
-                "Salir Corriendo"
+                "Días de Verano",
+                "Marta, Sebas, Guille y Los Demás",
+                "Sin Ti No Soy Nada",
+                "Toda La Noche En La Calle",
+                "Te Necesito",
+                "KAMIKAZE"
             ]
         },
         {
             "nombre": "Emilia",
             "canciones": [
-                "Rápido",
-                "Baila Conmigo",
-                "La Chain",
-                "No Te Quiero Ver",
-                "Duro",
-                "Canta Conmigo",
-                "La Cadena",
-                "Yo Lo Siento",
-                "Mi Temor",
-                "Acelerado"
-            ]
-        },
-        {
-            "nombre": "Lali Espósito",
-            "canciones": [
-                "LALIGERA",
-                "Baila",
-                "Fuiste Tú",
-                "Boomerang",
-                "Soy",
-                "Una Na",
-                "Del otro lado",
-                "Caliente",
-                "Fascinada",
-                "Todo Lo Que Soy"
+                "No_se_ve.mp3",
+                "La_Playlist.mpeg",
+                "La_Original.mp3",
+                "IConic.mp3"
             ]
         },
         {
@@ -817,73 +796,46 @@
                 "Havana",
                 "Señorita",
                 "Never Be the Same",
-                "Liar",
-                "My Oh My",
-                "Bad Things",
-                "Consequences",
-                "Cry for Me",
-                "Camila",
-                "Shelly"
+                "Bam Bam",
+                "Crying In The Club"
             ]
         },
         {
             "nombre": "Cali y El Dandee",
             "canciones": [
-                "La Estrategia",
-                "Locura",
-                "Te Voy a Olvidar",
+                "No Digas Nada",
                 "Yo Te Esperaré",
-                "La Rumba",
-                "El Rey",
-                "Loco",
-                "Punto de Partida",
-                "Por Ella",
-                "La Vuelta al Mundo"
+                "Por Fin Te Encontré",
+                "Gol",
+                "Te Necesito",
+                "Lumbra"
             ]
         },
         {
             "nombre": "Abraham Mateo",
             "canciones": [
                 "Señorita",
-                "Girlfriend",
-                "Loco Enamorado",
-                "Todo Mi Amor",
-                "Quédate Conmigo",
-                "Noche y Día",
-                "Dame, Dame",
-                "Dímelo",
-                "Sola",
-                "Me Vuelves Loco"
+                "Quiero Decirte",
+                "Clavaíto"
             ]
         },
         {
             "nombre": "Camela",
             "canciones": [
-                "Nunca Debí Enamorarme",
-                "Cuando Zarpa el Amor",
-                "Sueño Contigo",
-                "Llamado de Emergencia",
-                "Mi Pueblo",
-                "Amor de Hombre",
-                "Pero Te Vas a Arrepentir",
-                "El Rey de la Fiesta",
-                "Más de Ti",
-                "La Isla del Amor"
+                "Lágrimas de Amor",
+                "Sueños Inalcanzables",
+                "Cuando Zarpa El Amor",
+                "No puedo estar sin él",
+                "Hablale de mí",
+                "Nunca debí enamorarme",
+                "Amor Imposible"
             ]
         },
         {
             "nombre": "La Húngara",
             "canciones": [
-                "Como Te Amo",
-                "Tú Eres Mi Ladrón",
-                "Mi Corazón",
-                "Déjala",
-                "Te Lo Pido por Favor",
-                "No Me Olvides",
-                "Entre el Mar y una Estrella",
-                "La Cumbia del Mole",
-                "Vivir Mi Vida",
-                "Quiero Ser Libre"
+                "Por eso te canto",
+                "Tengo que impedir esa boda"
             ]
         },
         {
@@ -891,12 +843,6 @@
             "canciones": [
                 "Mayores",
                 "Sin Pijama",
-                "Shower",
-                "Doll",
-                "Mambo",
-                "Cantante",
-                "24/7",
-                "Sola",
                 "Ram Pam Pam",
                 "La Respuesta"
             ]
@@ -905,60 +851,52 @@
             "nombre": "Karol G",
             "canciones": [
                 "Bichota",
+                "TQG",
                 "Tusa",
-                "Ahora Me Llama",
-                "Ocean",
-                "Poblado",
-                "Ay Dios Mío",
-                "Sejodioto",
-                "La Vida Continuó",
-                "Sola",
-                "Dime Tú"
+                "Ahora Me Llama"
             ]
         },
         {
             "nombre": "La Quinta Estación",
             "canciones": [
-                "Algo Más",
-                "Perdición",
-                "Que Te Quiero",
-                "Me Pregunto",
                 "El Sol No Regresa",
-                "Cuando Todo Está Perdido",
-                "No Existen Técnicas para Olvidar",
-                "Sueños de una Noche de Verano",
-                "Tú y Yo",
-                "Te Ruego"
+                "Cuando Me Vaya",
+                "Me Muero",
+                "Volver a verte otra vez",
+                "Que Te Quería",
+                "Recuérdame",
+                "Tu Peor Error",
+                "El Mundo Se Equivoca",
+                "Sueños Rotos"
             ]
         },
         {
             "nombre": "El Sueño de Morfeo",
             "canciones": [
-                "Para Siempre",
-                "El Principio del Comienzo",
-                "Ojeras",
+                "Esta Soy Yo",
                 "Nunca Volverá",
-                "Días Grises",
-                "Sucede",
-                "No Quiero Saber",
-                "Lo Que Perdí",
-                "No Más",
-                "Con el Corazón en la Mano"
+                "Para toda la vida",
+                "Déjame verte"
             ]
         },
         {
             "nombre": "Melendi",
             "canciones": [
                 "Caminando por la Vida",
-                "La Casa No es Igual",
-                "Destino o Casualidad",
-                "Un Violinista en tu Tejado",
-                "Con Sólo una Sonrisa",
-                "Tu Jardín con Enanitos",
-                "Cheque al Portamor",
-                "Lágrimas Desordenadas",
-                "Desde Que Estamos Juntos",
-                "Déjala Que Baile"
+                "Un Violinista En Tu Tejado",
+                "Cheque Al Portamor",
+                "Canción De Amor Caducada",
+                "Tu Jardín Con Enanitos",
+                "Barbie de Extrarradio",
+                "La Promesa",
+                "Caminando Por La Vida",
+                "Lagrimas Desordenadas",
+                "Con la luna llena",
+                "Tocado Y Hundido",
+                "Como una vela",
+                "Hablando En Plata",
+                "Piratas del bar Caribe",
+                "Sé lo que hicisteis"
             ]
         },
         {
