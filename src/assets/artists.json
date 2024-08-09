@@ -61,21 +61,6 @@
             ]
         },
         {
-            "nombre": "Juan Gabriel",
-            "canciones": [
-                "Amor Eterno",
-                "Querida",
-                "Hasta Que Te Conocí",
-                "Se Me Olvidó Otra Vez",
-                "Así Fue",
-                "Abrázame Muy Fuerte",
-                "Te Lo Pido Por Favor",
-                "Yo No Nací Para Amar",
-                "El Noa Noa",
-                "No Tengo Dinero"
-            ]
-        },
-        {
             "nombre": "Rosalía",
             "canciones": [
                 "Malamente",
@@ -87,7 +72,12 @@
                 "Juro Que",
                 "La Fama",
                 "Dolerme",
-                "Despechá"
+                "Despechá",
+                "Saoko",
+                "Bizcochito",
+                "HENTAI",
+                "Beso",
+                "Candy"
             ]
         },
         {
@@ -154,30 +144,8 @@
             "nombre": "Thalía",
             "canciones": [
                 "Amor a la Mexicana",
-                "Piel Morena",
                 "Arrasando",
-                "No Me Acuerdo",
-                "A Quién le Importa",
-                "Desde Esa Noche",
-                "Qué Será de Ti",
-                "Equivocada",
-                "Tú y Yo",
-                "Te Perdiste Mi Amor"
-            ]
-        },
-        {
-            "nombre": "Selena",
-            "canciones": [
-                "Bidi Bidi Bom Bom",
-                "Como La Flor",
-                "Amor Prohibido",
-                "No Me Queda Más",
-                "Dreaming of You",
-                "El Chico del Apartamento 512",
-                "Si Una Vez",
-                "Fotos y Recuerdos",
-                "La Carcacha",
-                "I Could Fall in Love"
+                "No Me Acuerdo"
             ]
         },
         {
@@ -222,7 +190,8 @@
                 "La Escalera",
                 "Perdóname",
                 "Recuérdame",
-                "Quimera"
+                "Quimera",
+                "Éxtasis"
             ]
         },
         {
@@ -244,15 +213,7 @@
             "nombre": "Carlos Vives",
             "canciones": [
                 "La Bicicleta",
-                "Fruta Fresca",
-                "Volví a Nacer",
-                "Carito",
-                "Robarte un Beso",
-                "Déjame Entrar",
-                "Nota de Amor",
-                "La Gota Fría",
-                "Bailar Contigo",
-                "Cuando Nos Volvamos a Encontrar"
+                "Robarte un Beso"
             ]
         },
         {
@@ -266,7 +227,6 @@
                 "Mía",
                 "La Canción",
                 "Te Boté",
-                "I Like It",
                 "Amorfoda"
             ]
         },
@@ -275,7 +235,6 @@
             "canciones": [
                 "Taki Taki",
                 "Criminal",
-                "Te Boté",
                 "Baila Baila Baila",
                 "Se Preparó",
                 "La Modelo",
@@ -303,61 +262,13 @@
         {
             "nombre": "Gloria Trevi",
             "canciones": [
-                "Todos Me Miran",
-                "Dr. Psiquiatra",
-                "Pelo Suelto",
-                "El Recuento de los Daños",
-                "Cinco Minutos",
-                "Con los Ojos Cerrados",
-                "Me Río de Ti",
-                "Vestida de Azúcar",
-                "No Querías Lastimarme",
-                "La Papa Sin Catsup"
-            ]
-        },
-        {
-            "nombre": "Ricardo Arjona",
-            "canciones": [
-                "Mujeres",
-                "El Problema",
-                "Fuiste Tú",
-                "Te Conozco",
-                "Historia de Taxi",
-                "Minutos",
-                "Dime Que No",
-                "Si el Norte Fuera el Sur",
-                "A la Medida",
-                "No Te Conozco"
-            ]
-        },
-        {
-            "nombre": "Julio Iglesias",
-            "canciones": [
-                "Me Olvidé de Vivir",
-                "La Carretera",
-                "Hey!",
-                "De Niña a Mujer",
-                "Baila Morena",
-                "Abrázame",
-                "Un Canto a Galicia",
-                "El Amor",
-                "Me Va, Me Va",
-                "Manuela"
+                "Todos Me Miran"
             ]
         },
         {
             "nombre": "Camila",
             "canciones": [
-                "Todo Cambió",
-                "Mientes",
-                "Bésame",
-                "Aléjate de Mí",
-                "De Qué Me Sirve la Vida",
-                "Abrázame",
-                "Perdón",
-                "Coleccionista de Canciones",
-                "La Vida Entera",
-                "Decidiste Dejarme"
+                "Mientes"
             ]
         },
         {
@@ -372,22 +283,20 @@
                 "Dulce Locura",
                 "Jueves",
                 "Cometas por el Cielo",
-                "El Último Vals"
+                "El Último Vals",
+                "20 de enero",
+                "Inmortal",
+                "La niña que llora en tus fiestas",
+                "POP",
+                "El Primer Día Del Resto de Mi Vida",
+                "París",
+                "Cuéntame al oído"
             ]
         },
         {
             "nombre": "Alejandra Guzmán",
             "canciones": [
-                "Eternamente Bella",
-                "Hacer el Amor Con Otro",
-                "Mírala, Míralo",
-                "Reina de Corazones",
-                "Yo Te Esperaba",
-                "Volverte a Amar",
-                "Hey Güera",
-                "Mala Hierba",
-                "Día de Suerte",
-                "Mi Peor Error"
+                "Día de Suerte"
             ]
         },
         {
@@ -402,7 +311,8 @@
                 "Para Enamorarte de Mí",
                 "Diez Mil Maneras",
                 "Culpable",
-                "Tu y Yo"
+                "Escondidos",
+                "Oye El Boom"
             ]
         },
         {
@@ -414,25 +324,9 @@
                 "Y Tú Te Vas",
                 "Provócame",
                 "Salomé",
-                "Lo Dejaría Todo",
                 "Humanos a Marte",
                 "Atado a Tu Amor",
                 "Me Enamoré de Ti"
-            ]
-        },
-        {
-            "nombre": "Sin Bandera",
-            "canciones": [
-                "Entra en Mi Vida",
-                "Mientes Tan Bien",
-                "Que Lloro",
-                "Kilómetros",
-                "Te Vi Venir",
-                "Suelta Mi Mano",
-                "Sirena",
-                "Que Me Alcance la Vida",
-                "De Viaje",
-                "Amor Real"
             ]
         },
         {
@@ -441,27 +335,16 @@
                 "Mi Gran Noche",
                 "Yo Soy Aquel",
                 "Digan Lo Que Digan",
-                "Como Yo Te Amo",
-                "Estar Enamorado",
-                "Escándalo",
-                "Que Sabe Nadie",
-                "Cierro Mis Ojos",
-                "El Tamborilero",
-                "En Carne Viva"
+                "Escándalo"
             ]
         },
         {
             "nombre": "Luis Fonsi",
             "canciones": [
-                "Despacito",
                 "No Me Doy Por Vencido",
                 "Aquí Estoy Yo",
                 "Échame La Culpa",
-                "Imagíname Sin Ti",
-                "Nada Es Para Siempre",
-                "Gritar",
                 "Corazón en la Maleta",
-                "Quién Te Dijo Eso",
                 "Llegaste Tú"
             ]
         },
@@ -472,7 +355,6 @@
                 "Desátame",
                 "Empiezo a Recordarte",
                 "Pantera en Libertad",
-                "Solo Se Vive Una Vez",
                 "Amor y Lujo",
                 "Todo Mentira",
                 "Europa",
@@ -483,46 +365,17 @@
         {
             "nombre": "Nicky Jam",
             "canciones": [
-                "El Perdón",
                 "Travesuras",
                 "Hasta el Amanecer",
-                "X",
                 "Te Busco",
                 "Voy a Beber",
-                "El Amante",
-                "Si Tú la Ves",
-                "Bella y Sensual",
-                "Jaleo"
-            ]
-        },
-        {
-            "nombre": "La India",
-            "canciones": [
-                "Ese Hombre",
-                "Dicen Que Soy",
-                "Nunca Voy a Olvidarte",
-                "Mi Mayor Venganza",
-                "Me Canse de Ser la Otra",
-                "Costumbres",
-                "Si Tú Eres Mi Hombre",
-                "Sedúceme",
-                "Soy Mujer",
-                "Traición"
+                "El Amante"
             ]
         },
         {
             "nombre": "Pimpinela",
             "canciones": [
-                "Olvídame y Pega la Vuelta",
-                "A Esa",
-                "Dímelo Delante de Ella",
-                "Valiente",
-                "El Amor No Se Puede Olvidar",
-                "Hermanos",
-                "Me Hace Falta una Flor",
-                "Por Ese Hombre",
-                "Vivir sin Ti No Puedo",
-                "Doble Vida"
+                "Olvídame y Pega la Vuelta"
             ]
         },
         {
@@ -533,11 +386,7 @@
                 "Sabes",
                 "Ya Me Enteré",
                 "Me Niego",
-                "Qué Gano Olvidándote",
-                "Voy a Olvidarte",
-                "Creo en Ti",
-                "Fui",
-                "Tu Mirada"
+                "Qué Gano Olvidándote"
             ]
         },
         {
@@ -546,11 +395,9 @@
                 "Quiero Ser",
                 "Caminando",
                 "Tu Mirada",
-                "La Tormenta",
+                "La Tormenta (Me Muero Por Conocerte)",
                 "Palabras",
                 "Darte Mi Vida",
-                "Te Voy a Decir una Cosa",
-                "4\"",
                 "Los Abrazos Rotos",
                 "Mirando al Mar"
             ]
@@ -562,12 +409,8 @@
                 "Polvo de Mariposas",
                 "Arráncame",
                 "Complicidad",
-                "Que No",
                 "Te Has Perdido Quién Soy",
-                "Inventas",
-                "Frenar Enero",
-                "Santo y Seña",
-                "Hablarán de Ti y de Mí"
+                "Inventas"
             ]
         },
         {
@@ -577,7 +420,6 @@
                 "Lo Malo",
                 "Vas a Quedarte",
                 "Nada Sale Mal",
-                "Spoiler",
                 "Me Quedo",
                 "Ni Una Más",
                 "Arde",
@@ -586,108 +428,12 @@
             ]
         },
         {
-            "nombre": "Kany García",
-            "canciones": [
-                "Hoy Ya Me Voy",
-                "Para Siempre",
-                "Confieso",
-                "Aquí",
-                "Soy Yo",
-                "Que Te Vaya Mal",
-                "Duele Menos",
-                "Perfecto Para Mí",
-                "Contra el Viento",
-                "Amigos"
-            ]
-        },
-        {
             "nombre": "Sebastián Yatra",
             "canciones": [
                 "Traicionera",
                 "No Hay Nadie Más",
                 "Un Año",
-                "Ya No Tiene Novio",
-                "Robarte un Beso",
-                "Cristina",
-                "TBT",
-                "Cómo Mirarte",
-                "Por Perro",
-                "Runaway"
-            ]
-        },
-        {
-            "nombre": "José Luis Rodríguez 'El Puma'",
-            "canciones": [
-                "Dueño de Nada",
-                "Pavo Real",
-                "Culpable Soy Yo",
-                "Sentenciado Estoy",
-                "Vivir Lo Nuestro",
-                "Sabor a Sal",
-                "Te Necesito",
-                "Voy a Conquistarte",
-                "Que Bueno Es Esto",
-                "Me Volvieron a Hablar de Ella"
-            ]
-        },
-        {
-            "nombre": "Ricardo Montaner",
-            "canciones": [
-                "Tan Enamorados",
-                "La Cima del Cielo",
-                "Me Va a Extrañar",
-                "Déjame Llorar",
-                "Baila conmigo",
-                "Te Adoro",
-                "Ven Morenita",
-                "La Gloria de Dios",
-                "La Mujer de mi Vida",
-                "Ojalá"
-            ]
-        },
-        {
-            "nombre": "Joan Manuel Serrat",
-            "canciones": [
-                "Mediterráneo",
-                "Cantares",
-                "Penélope",
-                "Tu Nombre Me Sabe a Yerba",
-                "La Saeta",
-                "Un Caballo Llamado Muerte",
-                "Para Vivir",
-                "Aquellas Pequeñas Cosas",
-                "Luz de Luna",
-                "Esos Locos Bajitos"
-            ]
-        },
-        {
-            "nombre": "Ana Gabriel",
-            "canciones": [
-                "Quién Como Tú",
-                "Simplemente Amigos",
-                "Luna",
-                "No Entiendo",
-                "A Mi Gente",
-                "Ay Amor",
-                "Baila",
-                "Rosa y Espina",
-                "Luna de Octubre",
-                "Amor Eterno"
-            ]
-        },
-        {
-            "nombre": "Margarita La Diosa de la Cumbia",
-            "canciones": [
-                "Piquete",
-                "A Mí Me Gustan Mayores",
-                "Me Vuelves Loco",
-                "Chachachá",
-                "Cumbia Sobre el Río",
-                "Pa' Bailar",
-                "Veneno",
-                "Cumbia y Salsa",
-                "La Chica de la Cumbia",
-                "Dile Que Vuelve"
+                "Ya No Tiene Novio"
             ]
         },
         {
@@ -698,11 +444,9 @@
                 "Ya Nada Volverá a Ser Como Antes",
                 "Eres Tonto",
                 "Por Ti",
-                "Gente",
                 "La Madre de José",
-                "Un Día Perfecto",
-                "Besos",
-                "Son Sueños"
+                "Son Sueños",
+                "Peter Pan"
             ]
         },
         {
@@ -710,59 +454,40 @@
             "canciones": [
                 "La Raja de Tu Falda",
                 "Como Camarón",
-                "Vivirlo",
                 "El Run Run",
-                "Me Quede a Tu Lado",
-                "Partiendo la Caja",
+                "Vino Tinto",
+                "Partiendo la Pana",
                 "Tu Calorro",
                 "Cacho a Cacho",
-                "Lento",
-                "Despedida"
+                "Tragicomedia",
+                "El Del Medio De Los Chichos"
             ]
         },
         {
             "nombre": "Lola Índigo",
             "canciones": [
-                "Ya No Te Quiero",
-                "Mienteme",
-                "Tóxica",
+                "Ya No Quiero Ná",
+                "Mujer Bruja",
                 "Lola Bunny",
-                "4 Besos",
-                "Mala Cara",
-                "Tú y Yo",
-                "Conmigo",
-                "Mami",
-                "Ya No Te Quiero"
+                "4 Besos"
             ]
         },
         {
             "nombre": "Chanel",
             "canciones": [
                 "SloMo",
-                "Toke",
-                "Dura",
-                "Sola",
-                "Cita",
-                "Te Quiero Más",
-                "SloMo (Remix)",
-                "Hecha Pa' Lante",
-                "Nadie Más",
-                "Baila"
+                "Toke"
             ]
         },
         {
             "nombre": "Ana Mena",
             "canciones": [
-                "Dúo",
-                "Como el Agua",
-                "Ayer Me Llamó Mi Ex",
-                "Ya No Te Quiero",
-                "No Soy Yo",
-                "El Remedio",
-                "Quiero Ser",
-                "Muero por Ti",
-                "Ya No Te Quiero (Remix)",
-                "Más Que Amor",
+                "Madrid City",
+                "Música Ligera",
+                "Un Clásico",
+                "Se Iluminaba",
+                "Ya Es Hora",
+                "Mezzanotte",
                 "Las 12"
             ]
         },
