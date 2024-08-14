@@ -469,7 +469,8 @@
                 "Ya No Quiero Ná",
                 "Mujer Bruja",
                 "Lola Bunny",
-                "4 Besos"
+                "4 Besos",
+                "El Tonto"
             ]
         },
         {
@@ -627,31 +628,18 @@
         {
             "nombre": "Bustamante",
             "canciones": [
-                "Devuélveme la Vida",
-                "Dos Hombres y un Destino",
-                "Cobarde",
-                "A Contracorriente",
-                "Feliz",
-                "Me Arrepiento",
-                "Además de Ti",
-                "Héroes",
-                "Contigo Hasta el Final",
-                "El Aire Que Me Das"
+                "No Soy Un Superman",
+                "Dos Hombres Y Un Destino",
+                "Devuélveme la vida",
+                "Cobarde"
             ]
         },
         {
             "nombre": "Mago de Oz",
             "canciones": [
                 "Fiesta Pagana",
-                "Molinos de Viento",
-                "La Costa del Silencio",
-                "Hasta Que el Cuerpo Aguante",
-                "El Que Quiera Entender Que Entienda",
-                "La Danza del Fuego",
-                "Hoy Toca Ser Feliz",
-                "Desde mi Cielo",
-                "El Atrapasueños",
-                "Pensando en Ti"
+                "La Costa Del Silencio",
+                "Molinos de Viento"
             ]
         },
         {
@@ -659,74 +647,53 @@
             "canciones": [
                 "Que la Detengan",
                 "Dile Que la Quiero",
-                "Perdóname",
                 "Bye Bye",
-                "Rosa y Espinas",
-                "Un Año Más",
-                "Para Vivir Contigo",
-                "Me Ha Robado el Corazón",
-                "Tú Para Mí",
-                "Agua"
+                "Perdóname",
+                "Rosa Y Espinas",
+                "El orgullo y la visa"
             ]
         },
         {
             "nombre": "Juan Magán",
             "canciones": [
                 "Bailando por Ahí",
-                "He Llorado (Como un Niño)",
                 "Si No Te Quisiera",
-                "Te Voy a Esperar",
+                "Mal de Amores",
+                "Ella No Sigue Modas",
+                "Te Voy a Esperar ",
+                "He Llorado",
+                "Verano Azul",
+                "Angelito Sin Alas",
                 "Vuelve",
                 "Usted",
-                "Ella No Sigue Modas",
-                "Borro Cassette",
-                "Mal de Amores",
-                "Déjate Llevar"
+                "Chica Latina"
             ]
         },
         {
             "nombre": "Wisin & Yandel",
             "canciones": [
-                "Algo Me Gusta de Ti",
                 "Rakata",
                 "Abusadora",
-                "Te Siento",
+                "El Telefono",
+                "Yo No Necesito Vacaciones",
                 "Noche de Sexo",
                 "Sexy Movimiento",
-                "Gracias a Ti",
-                "Me Estás Tentando",
-                "Estoy Enamorado",
-                "Llame Pa' Verte"
+                "Ahora Es"
             ]
         },
         {
             "nombre": "Omar Montes",
             "canciones": [
-                "Alocao",
-                "La Rubia (Remix)",
-                "Solo",
-                "Prendío",
-                "Carita Morena",
-                "La Llamada",
-                "Diablita",
-                "Bandida",
-                "Como el Agua",
-                "Beba Que Quieres Que Haga"
+                "Alocao"
             ]
         },
         {
             "nombre": "Bad Gyal",
             "canciones": [
-                "Alocao",
                 "Zorra",
                 "Fiebre",
-                "Santa María",
                 "Aprendiendo el Sexo",
-                "Jacaranda",
-                "Pussy",
-                "Hookah",
-                "Blin Blin",
-                "44"
+                "Chulo"
             ]
         },
         {
@@ -738,25 +705,24 @@
                 "Taboo",
                 "Salió el Sol",
                 "Virtual Diva",
-                "Hasta Abajo",
-                "Conteo",
-                "Zumba",
-                "Angelito"
+                "Dutty love",
+                "Dale Don Dale",
+                "Te quiero pa mi",
+                "El Señor De La Noche",
+                "Guaya Guaya"
             ]
         },
         {
             "nombre": "Pitbull",
             "canciones": [
+                "El Taxi",
+                "Feel This Moment",
+                "I Know You Want Me (Calle Ocho)",
                 "Give Me Everything",
                 "Timber",
-                "Fireball",
-                "Hotel Room Service",
-                "I Know You Want Me (Calle Ocho)",
-                "Rain Over Me",
+                "Sube Las Manos Pa' Arriba",
                 "Don't Stop the Party",
-                "International Love",
-                "Time of Our Lives",
-                "Feel This Moment"
+                "International Love"
             ]
         },
         {
@@ -765,43 +731,18 @@
                 "Colgando en Tus Manos",
                 "Amor y Dolor",
                 "Te Regalo",
-                "Vivo Enamorado",
                 "Quien Te Quiere Como Yo",
-                "Te Amo",
-                "Nada Se Compara a Ti",
-                "Ando Buscando",
-                "Haciendo Buena Vida",
-                "Tu No Sabes Que Tanto"
-            ]
-        },
-        {
-            "nombre": "Decai",
-            "canciones": [
-                "Ella y Yo",
-                "Noche de Sexo",
-                "No Quiero Verte",
-                "El Alma en Pie",
-                "Te Haré Feliz",
-                "Dame una Razón",
-                "Solo tu Boca",
-                "Y Ahora",
-                "Toma Mi Corazón",
-                "Sigo Aquí"
+                "Amarte Bien",
+                "Nada Se Compara a Ti"
             ]
         },
         {
             "nombre": "Los Rebujitos",
             "canciones": [
-                "Lo Que Me Gusta de Ti",
-                "Recordándote",
-                "Ya No te Amo",
-                "Sin Tí",
-                "Te Olvidaré",
-                "Déjame",
-                "Esa Chiquilla",
-                "Le Pido al Viento",
-                "Un Bonito Final",
-                "Esa Niña"
+                "Todos Los Besos",
+                "Volar",
+                "Cuatro Soldaditos",
+                "Quiero"
             ]
         },
         {
@@ -809,14 +750,9 @@
             "canciones": [
                 "Ojalá",
                 "Escúchame Mujer",
-                "Quiero Ser",
+                "Mi estrella blanca",
                 "Princesa",
-                "Mi Estrella Blanca",
-                "El Último Adiós",
-                "Veneno",
-                "Tu Despertador",
-                "Corazón a Rastras",
-                "Lo Que yo te Daría"
+                "El Último Adiós"
             ]
         },
         {
@@ -826,57 +762,25 @@
                 "Fanática Sensual",
                 "Si No Le Contesto",
                 "Es un Secreto",
-                "Te Dijeron",
-                "Choca",
                 "Frikitona",
-                "La Nena de Papi",
-                "Pégate a Mí",
                 "Mi Vecinita"
-            ]
-        },
-        {
-            "nombre": "Belinda",
-            "canciones": [
-                "Eres Tú",
-                "Luz Sin Gravedad",
-                "Bella Traición",
-                "Lo Siento",
-                "En el Amor Hay Que Perdonar",
-                "Dopamina",
-                "Ángel",
-                "Egoísta",
-                "Déjate Llevar",
-                "Sal de mi Piel"
             ]
         },
         {
             "nombre": "Anitta",
             "canciones": [
                 "Downtown",
-                "Me Gusta",
-                "Veneno",
-                "Paradinha",
-                "Medicina",
-                "Vai Malandra",
-                "Bola Rebola",
-                "Terremoto",
-                "Bang",
-                "Rosa"
+                "Envolver"
             ]
         },
         {
             "nombre": "Bizarrap",
             "canciones": [
-                "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
-                "Cazzu: Bzrp Music Sessions, Vol. 32",
-                "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-                "Eladio Carrión: Bzrp Music Sessions, Vol. 40",
-                "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
-                "L-Gante: Bzrp Music Sessions, Vol. 38",
-                "Lalo Ebratt: Bzrp Music Sessions, Vol. 31",
-                "Zaramay: Bzrp Music Sessions, Vol. 30",
-                "Anuel AA: Bzrp Music Sessions, Vol. 46",
-                "Quevedo: Bzrp Music Sessions, Vol. 52"
+                "SHAKIRA (BZRP Music Sessions #53)",
+                "VILLANO ANTILLANO (BZRP Music Sessions #51)",
+                "QUEVEDO (BZRP Music Sessions #52)",
+                "NATHY PELUSO (BZRP Music Sessions #36)",
+                "RAUW ALEJANDRO (BZRP Music Sessions #56)"
             ]
         },
         {
@@ -884,58 +788,34 @@
             "canciones": [
                 "Blanco y Negro",
                 "Ahora Tú",
-                "A Prueba de Ti",
-                "Vuelvo a Verte",
+                "A Prueba De Ti",
+                "Vuelvo a Verte (feat. Pablo Alborán)",
                 "Aprendiz",
-                "Que Nadie",
-                "Cenizas",
-                "Invisible",
-                "Ni un Segundo",
-                "Caos"
+                "Invisible"
             ]
         },
         {
             "nombre": "Antonio Orozco",
             "canciones": [
                 "Devuélveme la Vida",
-                "Estoy Hecho de Pedacitos de Ti",
-                "Mi Héroe",
-                "Temblando",
-                "Llévatelo",
-                "Pedacitos de Ti",
-                "Hoy Será",
-                "Te Esperaré",
-                "Llegará",
-                "Una y Otra Vez"
+                "Estoy Hecho de Pedacitos de Ti"
             ]
         },
         {
             "nombre": "India Martínez",
             "canciones": [
                 "90 Minutos",
-                "Vencer al Amor",
-                "Hoy",
-                "Aguasanta",
-                "Los Gatos no Ladran",
-                "Te Cuento un Secreto",
-                "La Gitana",
-                "Amanecer",
-                "Niña",
-                "Todo no es Casualidad"
+                "Vencer al Amor"
             ]
         },
         {
             "nombre": "El Arrebato",
             "canciones": [
                 "Búscate un Hombre que te Quiera",
-                "Una Noche con Arte",
                 "Poquito a Poco",
-                "A Mí Na' Má",
                 "Dame Cariño",
-                "Aquí me Tienes",
-                "Durmiendo en tu Ombligo",
                 "Mirando Pa' Ti",
-                "Lo Bueno se Hace Esperar",
+                "Himno Oficial Del Centenario Del Sevilla F.C.",
                 "Hoy Todo Va a Salirme Bien"
             ]
         },
@@ -943,45 +823,25 @@
             "nombre": "Manuel Carrasco",
             "canciones": [
                 "Que Nadie",
-                "Y Ahora",
-                "Uno x Uno",
-                "No dejes de Soñar",
-                "Amor Planetario",
-                "Llámame Loco",
-                "Desde Aquí del Otro Lado",
-                "Tambores de Guerra",
-                "Espera un Momento",
-                "Ya No"
+                "No dejes de soñar"
             ]
         },
         {
             "nombre": "Paulina Rubio",
             "canciones": [
                 "Ni Una Sola Palabra",
-                "Yo No Soy Esa Mujer",
-                "Te Quise Tanto",
+                "Boys Will Be Boys",
                 "Baila Casanova",
                 "Y Yo Sigo Aquí",
-                "Lo Haré por Ti",
-                "El Último Adiós",
-                "Dame Otro Tequila",
-                "Mío",
-                "Si Tú Te Vas"
+                "Causa y Efecto"
             ]
         },
         {
             "nombre": "Nena Daconte",
             "canciones": [
-                "Tenía Tanto que Darte",
+                "Tenía tanto que darte",
                 "En Qué Estrella Estará",
-                "Retales de Carnaval",
-                "Idiota",
-                "El Aleph",
-                "Disparé",
-                "Por Qué No Te Invitas a Venir",
-                "Voy a Tumbarme al Sol",
-                "Idiota",
-                "El Aleph"
+                "Disparé"
             ]
         },
         {
@@ -989,74 +849,43 @@
             "canciones": [
                 "Hijo de la Luna",
                 "Me Cuesta Tanto Olvidarte",
-                "La Fuerza del Destino",
                 "Mujer Contra Mujer",
                 "Cruz de Navajas",
                 "Hoy No Me Puedo Levantar",
                 "Una Rosa es una Rosa",
                 "El 7 de Septiembre",
-                "Barco a Venus",
-                "Dalí"
+                "Me Colé En Una Fiesta",
+                "Maquillaje"
             ]
         },
         {
             "nombre": "El Barrio",
             "canciones": [
                 "Pa' Madrid",
-                "He Vuelto",
-                "La Voz de mi Silencio",
-                "Ángel Malherido",
-                "La Fuente del Deseo",
-                "Querido Amigo",
-                "Tormento de Amor",
-                "Las Costuras del Alma",
-                "No Vuelvas",
-                "La Verdad"
+                "Quiereme"
             ]
         },
         {
             "nombre": "María Isabel",
             "canciones": [
                 "Antes Muerta que Sencilla",
-                "No Me Toques las Palmas",
-                "La Vida Sólo es Una",
+                "¡No Me Toques Las Palmas Que Me Conozco!",
                 "De Qué Vas",
                 "El Mundo al Revés",
-                "Un Mundo Ideal",
-                "Bla Bla Bla",
-                "En Mi Jardín",
-                "Como Tú Ninguna",
-                "Pues Va a Ser que No"
+                "Mira Niño"
             ]
         },
         {
             "nombre": "Romeo Santos",
             "canciones": [
-                "Propuesta Indecente",
-                "Eres Mía",
-                "Imitadora",
-                "Héroe Favorito",
-                "Sobredosis",
-                "Hilito",
-                "Bella y Sensual",
-                "Noche de Sexo",
-                "Promise",
-                "La Diabla"
+                "Propuesta Indecente"
             ]
         },
         {
             "nombre": "CNCO",
             "canciones": [
                 "Reggaetón Lento",
-                "Hey DJ",
-                "Mamita",
-                "Tan Fácil",
-                "Para Enamorarte",
-                "Quisiera",
-                "Bonita",
-                "La Equivocada",
-                "Se Vuelve Loca",
-                "De Cero"
+                "Hey DJ"
             ]
         },
         {
@@ -1067,41 +896,21 @@
                 "Yo Contigo, Tú Conmigo",
                 "Amor Con Hielo",
                 "Cuando Nadie Ve",
-                "La Correcta",
-                "Balas Perdidas",
-                "Mi Nuevo Vicio",
-                "No Termino",
-                "Besos en Guerra"
+                "Mi Nuevo Vicio"
             ]
         },
         {
             "nombre": "Quevedo",
             "canciones": [
-                "Quédate",
-                "Playa del Inglés",
-                "Sin Señal",
-                "Ahora Qué",
-                "Cayo la Noche",
-                "Punto G",
-                "Respuesta Cero",
-                "Universitaria",
-                "Bzrp Music Sessions, Vol. 52",
-                "Freaky"
+                "Columbia"
             ]
         },
         {
             "nombre": "Rauw Alejandro",
             "canciones": [
                 "Todo de Ti",
-                "2/Catorce",
-                "Enchule",
                 "Tattoo",
-                "Nostálgico",
-                "Desenfocao",
-                "Fantasías",
-                "Reloj",
-                "Que le dé",
-                "Hunter"
+                "BABY HELLO (part. Bizarrap)"
             ]
         },
         {
@@ -1111,8 +920,8 @@
                 "Te Entiendo",
                 "Estoy Enfermo",
                 "Todo Me Da Igual",
-                "Pienso en Positivo",
-                "Por Verte",
+                "Cama Vacía",
+                "Sube a Mi Cohete",
                 "Sigo Llorando",
                 "Me Quedo en el Infierno",
                 "El Tiempo Pasará",
@@ -1124,29 +933,106 @@
             "canciones": [
                 "Física o Química",
                 "Cada Dos Minutos",
-                "Y Miramé",
-                "Gracias",
-                "Lo Contrario de Ninguno",
-                "El Silencio",
-                "Estrella",
-                "Los Días Contados",
-                "Caricias en tu Espalda",
-                "Mi Accidente Preferido"
+                "Gracias"
             ]
         },
         {
             "nombre": "Zion & Lennox",
             "canciones": [
-                "Otra Vez",
-                "La Player (Bandolera)",
-                "Embriágame",
-                "Te Quiero",
-                "Pierdo La Cabeza",
-                "Hola",
-                "No Es Justo",
-                "Hoy Lo Siento",
-                "Motivan2",
-                "Mi Tesoro"
+                "Mi Cama Huele a Ti",
+                "Otra vez (part. J. Balvin)"
+            ]
+        },
+        {
+            "nombre": "Rebelde (RBD)",
+            "canciones": [
+                "Sálvame",
+                "Rebelde",
+                "Ser O Parecer",
+                "Tras de Mí",
+                "Solo Quédate En Silencio",
+                "Fuego"
+            ]
+        },
+        {
+            "nombre": "Andy & Lucas",
+            "canciones": [
+                "Y En Tu Ventana",
+                "Tanto La Quería",
+                "Son De Amores",
+                "Carita morena"
+            ]
+        },
+        {
+            "nombre": "Rocío Jurado",
+            "canciones": [
+                "Punto De Partida",
+                "Viva El Pasodoble",
+                "Como Una Ola",
+                "Se Nos Rompió El Amor",
+                "Lo Siento Mi Amor",
+                "Como Yo Te Amo",
+                "Señora"
+            ]
+        },
+        {
+            "nombre": "Rosario Flores",
+            "canciones": [
+                "No Dudaría",
+                "Algo Contigo",
+                "¡Que Bonito!",
+                "Muchas Flores",
+                "Cuéntame Que Te Pasó",
+                "Sarandonga"
+            ]
+        },
+        {
+            "nombre": "Chenoa",
+            "canciones": [
+                "Cuando Tú Vas",
+                "Absurda Cenicienta",
+                "Sol, Noche Y Luna"
+            ]
+        },
+        {
+            "nombre": "Dvicio",
+            "canciones": [
+                "Casi Humanos",
+                "Paraiso",
+                "5 Sentidos",
+                "Qué Tienes Tú"
+            ]
+        },
+        {
+            "nombre": "3+2",
+            "canciones": [
+                "La Canción Del Cola Cao",
+                "Chachi Piruli",
+                "El Rama Lama (Rama Lama Ding Dong)",
+                "El Baile De La Ola",
+                "Navegando en Internet",
+                "Boom Boom"
+            ]
+        },
+        {
+            "nombre": "Jesse & Joy",
+            "canciones": [
+                "Dueles",
+                "¡Corre!",
+                "Ecos de Amor"
+            ]
+        },
+        {
+            "nombre": "David de María",
+            "canciones": [
+                "Precisamente Ahora",
+                "Que Yo No Quiero Problemas"
+            ]
+        },
+        {
+            "nombre": "Las Supremas de Móstoles",
+            "canciones": [
+                "Eres un enfermo"
             ]
         }
     ]
