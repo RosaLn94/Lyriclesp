@@ -1,5 +1,12 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
+import { startDailyUpdate } from "./services/updateService";
+import { onMounted } from 'vue';
+
+// Llama a startDailyUpdate cuando el componente se monte
+onMounted(() => {
+  startDailyUpdate();
+});
 </script>
 
 <template>
@@ -10,9 +17,9 @@ import { RouterLink, RouterView } from 'vue-router'
   </header>
   <div class="container">
     <div class="hero">
-      <h1>Discover Your Lyrics</h1>
-      <p>Find the lyrics that speak to you and your mood.</p>
-      <a href="#" class="btn">Get Started</a>
+      <h1>Que haces aquí puta</h1>
+<!--       <p>Find the lyrics that speak to you and your mood.</p>
+      <a href="#" class="btn">Get Started</a> -->
     </div>
   </div>
   <footer>

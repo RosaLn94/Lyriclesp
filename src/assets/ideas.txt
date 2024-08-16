@@ -1,2 +1,5 @@
 David de María
 Supremas de Móstoles
+
+
+para sacar estadísticas: localStorage
