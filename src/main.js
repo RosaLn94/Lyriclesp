@@ -8,6 +8,8 @@ import router from './router'
 import PrimeVue from 'primevue/config';
 import Aura from '@primevue/themes/aura';
 import './firebase'; 
+import AnimateOnScroll from 'primevue/animateonscroll';
+import './assets/tailwind.css';
 
 
 const app = createApp(App);
@@ -17,6 +19,7 @@ app.use(PrimeVue, {
     }
 });
 
+app.directive('animateonscroll', AnimateOnScroll);
 app.use(createPinia())
 app.use(router)
 

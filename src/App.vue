@@ -18,6 +18,7 @@ onMounted(() => {
   <div class="container">
     <div class="hero">
       <h1>Que haces aquí puta</h1>
+      <RouterView />
 <!--       <p>Find the lyrics that speak to you and your mood.</p>
       <a href="#" class="btn">Get Started</a> -->
     </div>
@@ -26,7 +27,6 @@ onMounted(() => {
     <p>&copy; 2024 Lyriclesp. All rights reserved. Atpc ea</p>
   </footer>
 
-  <RouterView />
 </template>
 
 <style scoped>
