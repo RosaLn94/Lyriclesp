@@ -2,7 +2,7 @@
     {{ artistaElegido }}
     {{ cancionElegida }}
 
-    {{ cancion }}
+    {{ letra }}
 </template>
 <script setup>
 import axios from 'axios';
@@ -16,7 +16,8 @@ const responseCancion = await axios.get(`${databaseURL}Letras/cancionDelDia.json
 const cancionElegida = responseCancion.data;
 const canciones = await axios.get(`${databaseURL}Letras.json?orderBy="nombre"&equalTo="${artistaElegido}"`);
 const cancionesData = canciones.data;
-const cancion = obtenerLetraPorTitulo(cancionElegida);
+const letra = obtenerLetraPorTitulo(cancionElegida);
+console.log(letra)
 
 /* const fetchData = async () => {
     try {
@@ -42,14 +43,11 @@ const cancion = obtenerLetraPorTitulo(cancionElegida);
 function obtenerLetraPorTitulo(titulo) {
     // Iterar sobre las claves del objeto principal
     for (const clave in cancionesData) {
-        // Buscar la canción que tenga el título proporcionado en el arreglo de canciones
         const cancion = cancionesData[clave].canciones.find(c => c.titulo === titulo);
-        // Si se encuentra, retornar la letra
         if (cancion) {
             return cancion.letra;
         }
     }
-    // Retornar un mensaje si la canción no se encuentra
     return 'Canción no encontrada';
 }
 </script>

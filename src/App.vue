@@ -23,7 +23,7 @@ onMounted(() => {
     </div>
   </div>
   <footer>
-    <p>&copy; 2024 Lyriclesp. All rights reserved.</p>
+    <p>&copy; 2024 Lyriclesp. All rights reserved. Atpc ea</p>
   </footer>
 
   <RouterView />
