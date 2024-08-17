@@ -2,6 +2,7 @@
 import { RouterLink, RouterView } from 'vue-router'
 import { startDailyUpdate } from "./services/updateService";
 import { onMounted } from 'vue';
+import CabeceraComponent from './components/CabeceraComponent.vue';
 
 // Llama a startDailyUpdate cuando el componente se monte
 onMounted(() => {
@@ -12,17 +13,17 @@ onMounted(() => {
 <template>
 
   <header>
-    <h1><img src="@/assets/logo.svg" class="logo" />yricle<img src="@/assets/dragonite.gif" width="125" height="125" class="gif" /></h1>
+   <CabeceraComponent/>
     
   </header>
   <div class="container">
     <div class="hero">
-      <h1>Que haces aquí puta</h1>
       <RouterView />
 <!--       <p>Find the lyrics that speak to you and your mood.</p>
       <a href="#" class="btn">Get Started</a> -->
     </div>
   </div>
+  
   <footer>
     <p>&copy; 2024 Lyriclesp. All rights reserved. Atpc ea</p>
   </footer>
@@ -37,12 +38,12 @@ body {
   color: #333;
 }
 
-header {
+/* header {
   background-color: #250648;
   color: white;
   padding: 20px;
   text-align: center;
-}
+} */
 
 .container {
   max-width: 1200px;
@@ -52,8 +53,6 @@ header {
 
 .hero {
   text-align: center;
-  padding: 100px 20px;
-  background-color: #231f1f;
 }
 
 .hero h1 {
@@ -80,7 +79,7 @@ header {
 }
 
 .logo{
-  width: 5%;
+  width: 4%;
 }
 .gif{
   margin-right: 0;
