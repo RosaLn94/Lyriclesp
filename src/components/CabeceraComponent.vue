@@ -27,7 +27,7 @@
       <!-- Logo -->
       <img src="@/assets/logo.svg" alt="Logo" class="h-10 mr-3" />
       <!-- Título -->
-      <h1 class="text-2xl font-bold">yricle</h1>
+      <h1 class="text-2xl font-bold">yriclesp</h1>
     </div>
 
     <!-- GIF -->
