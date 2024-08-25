@@ -1,6 +1,6 @@
 <template>
-    <div class="relative" v-click-outside="closeSuggestions">
-        <input type="text" v-model="query" @input="filterSuggestions" class="p-2 border rounded w-full"
+    <div class="relative shadow-xl" v-click-outside="closeSuggestions">
+        <input type="text" v-model="query" @input="filterSuggestions" class="p-2 shadow-xl border rounded w-full dark-mode"
             placeholder="Buscar..." />
         <ul v-if="filteredSuggestions.length"
             class="absolute z-10 w-full bg-black border border-t-0 rounded-b shadow-lg max-h-60 overflow-y-auto">
@@ -60,5 +60,14 @@ export default {
 </script>
 
 <style scoped>
+input.dark-mode {
+    background-color: #2d2d2d; /* Color de fondo oscuro */
+    color: #ffffff; /* Color del texto blanco */
+    border: 1px solid #444; /* Opcional: color del borde */
+}
+
+input.dark-mode::placeholder {
+    color: #888; /* Color del texto del placeholder */
+}
 /* Estilo adicional si es necesario */
 </style>

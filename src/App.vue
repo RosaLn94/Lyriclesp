@@ -11,32 +11,33 @@ onMounted(() => {
 </script>
 
 <template>
+  <div class="app">
 
-  <header>
-   <CabeceraComponent/>
-    
-  </header>
-  <div class="container">
-    <div class="hero">
-      <RouterView />
-<!--       <p>Find the lyrics that speak to you and your mood.</p>
+    <header>
+      <CabeceraComponent />
+
+    </header>
+    <div class="container">
+      <div class="hero">
+        <RouterView />
+        <!--       <p>Find the lyrics that speak to you and your mood.</p>
       <a href="#" class="btn">Get Started</a> -->
+      </div>
     </div>
-  </div>
-  
-  <footer>
-    <p>&copy; 2024 Lyriclesp. All rights reserved. Atpc ea</p>
-  </footer>
 
+    <footer>
+      <p>&copy; 2024 Lyriclesp. All rights reserved. Atpc ea</p>
+    </footer>
+  </div>
 </template>
 
 <style scoped>
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background-color: #231f1f;
-  color: #333;
+.app {
+  background: linear-gradient( #181818, #241349,#181818);
+  height: 100vh;
 }
+
+
 
 /* header {
   background-color: #250648;
@@ -65,23 +66,11 @@ body {
   margin-bottom: 20px;
 }
 
-.btn {
-  background-color: #1e90ff;
-  color: white;
-  padding: 15px 30px;
-  text-decoration: none;
-  border-radius: 5px;
-  font-size: 1.2em;
-}
-
-.btn:hover {
-  background-color: #0d75d6;
-}
-
-.logo{
+.logo {
   width: 4%;
 }
-.gif{
+
+.gif {
   margin-right: 0;
 }
 

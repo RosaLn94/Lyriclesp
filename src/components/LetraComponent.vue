@@ -1,8 +1,8 @@
 <template>
 
   <div class="container mx-auto p-6">
-    <div class="bg-purple-950 shadow-lg rounded-lg overflow-hidden">
-      <ul class="divide-y divide-black-700">
+    <div class="shadow-lg rounded-lg overflow-hidden bgcolor shadow-xl">
+      <ul class="divide-y divide-black-700 shadow-xl">
         <transition-group name="fade" tag="div">
           <li v-for="(item, index) in letraMostrar" :key="index"
             class="fixed-item text-white hover:bg-purple-700 transition-all duration-300 transform hover:scale-105 animate-fade-in">
@@ -13,17 +13,17 @@
     </div>
     <div class="relative mt-4">
       <div class="w-full">
-        <AutocompleteInput class="w-full"></AutocompleteInput>
+        <AutocompleteInput ref="autocompleteRef" class="w-full"></AutocompleteInput>
       </div>
       <div class="flex justify-between mt-2">
         <button @click="skip"
-          class="w-[150px] bg-purple-800 text-white py-2 px-4 rounded-lg hover:bg-purple-500 transition duration-300">
+          class="w-[150px] bg-purple-800 text-white py-2 px-4 rounded-lg hover:bg-purple-500 transition duration-300 shadow-xl">
           <span v-if="skipped < 6">Y yo que sé xd</span>
           <span v-else>Me rindo 😭</span>
         </button>
 
         <button @click="resolver"
-          class="w-[150px] bg-purple-800 text-white py-2 px-4 rounded-lg hover:bg-purple-500 transition duration-300">
+          class="w-[150px] bg-purple-800 text-white py-2 px-4 rounded-lg hover:bg-purple-500 transition duration-300 shadow-xl">
           <span v-if="skipped < 6">RESUELVO</span>
           <span v-else>Me la juego🤭</span>
         </button>
@@ -34,7 +34,20 @@
 
   </div>
   <div v-if="fail">
-    JUEGO ACABADO
+    <DialogFinalComponent
+    :visibleDialog="true"
+    :mensaje="'Bueno... la próxima vez será'"
+    :artista="artistaElegido"
+    :cancion="cancionElegida">
+  </DialogFinalComponent>
+  </div>
+  <div v-if="winwin">
+    <DialogFinalComponent
+    :visibleDialog="true"
+    :mensaje="'OLEEEEEEEEEEEEE'"
+    :artista="artistaElegido"
+    :cancion="cancionElegida">
+  </DialogFinalComponent>
   </div>
 
 </template>
@@ -43,6 +56,7 @@ import axios from 'axios';
 import './../firebase';
 import { ref } from 'vue'
 import AutocompleteInput from './AutocompleteInput.vue';
+import DialogFinalComponent from './DialogFinalComponent.vue';
 
 const databaseURL = "https://lyriclesp-default-rtdb.europe-west1.firebasedatabase.app/";
 const responseArtista = await axios.get(`${databaseURL}Letras/artistaDelDia.json`);
@@ -56,7 +70,8 @@ const letraArray = letra.split('\n');
 const letraMostrar = letraArray.slice(0, 7);
 const skipped = ref(0);
 const fail = ref(false);
-console.log(localStorage);
+const autocompleteRef = ref(null);
+const winwin = ref(false);
 
 
 function obtenerLetraPorTitulo(titulo) {
@@ -78,8 +93,12 @@ function skip() {
 }
 
 function resolver() {
-  console.log("QUERY", $refs.input.query);
-  this.$refs.input.query;
+  const arrayRespuesta = autocompleteRef.value.query.split(" - ");
+  if(arrayRespuesta[0].toLowerCase() === artistaElegido.toLowerCase() && arrayRespuesta[1].toLowerCase() === cancionElegida.toLowerCase()){
+    winwin.value=true;
+  }else{
+    skip();
+  }
 }
 </script>
 <style scoped>
@@ -131,5 +150,9 @@ function resolver() {
 .fade-leave-to {
   opacity: 0;
   transform: translateY(10px);
+}
+
+.bgcolor{
+  background-color: #21132c;
 }
 </style>
