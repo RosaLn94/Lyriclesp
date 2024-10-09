@@ -51,10 +51,11 @@ const props = defineProps({
   artista: null,
   cancion: null
 });
+const apiKey= import.meta.env.VITE_APP_YOUTUBE_API_KEY;
 const visible = ref(props.visibleDialog);
 const videoUrl = ref('');
 const searchVideo = async () => {
-  try {
+/*   try {
     const response = await axios.get('https://www.youtube.com/results', {
       params: {
         search_query: props.artista +" "+props.cancion,
@@ -72,7 +73,32 @@ const searchVideo = async () => {
     }
   } catch (error) {
     console.error('Error searching for video:', error);
+  } */
+  const url = `https://www.googleapis.com/youtube/v3/search`;
+  const search= props.artista +" "+props.cancion;
+
+try {
+  const response = await axios.get(url, {
+    params: {
+      part: 'snippet',
+      q: search, // Búsqueda basada en el término
+      type: 'video',
+      key: apiKey,
+      maxResults: 1 // Número de videos que quieres recuperar
+    }
+  });
+  var videoId = "";
+
+  // Recuperar el ID del primer video en los resultados
+  if (response.data.items.length > 0) {
+    videoId = response.data.items[0].id.videoId;
+    videoUrl.value = `https://www.youtube.com/embed/${videoId}`;
+  } else {
+    alert('No se encontraron videos');
   }
+} catch (error) {
+  console.error('Error en la solicitud a YouTube API:', error);
+}
 };
 
 onMounted(() => {
