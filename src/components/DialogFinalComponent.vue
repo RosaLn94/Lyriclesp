@@ -44,6 +44,7 @@
 import { ref, onMounted } from "vue";
 import axios from 'axios';
 import Dialog from "primevue/dialog";
+import functions from 'firebase-functions';
 
 const props = defineProps({
   visibleDialog: {type: Boolean, default: false},
@@ -51,7 +52,8 @@ const props = defineProps({
   artista: null,
   cancion: null
 });
-const apiKey= import.meta.env.VITE_APP_YOUTUBE_API_KEY;
+//const apiKey= import.meta.env.VITE_APP_YOUTUBE_API_KEY;
+const apiKey = functions.config().youtube.apikey;
 const visible = ref(props.visibleDialog);
 const videoUrl = ref('');
 const searchVideo = async () => {
