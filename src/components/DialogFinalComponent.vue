@@ -33,7 +33,7 @@
                   referrerpolicy="strict-origin-when-cross-origin" 
                   allowfullscreen></iframe>
         </div>
-        Esto está feísimo ya lo sé no juzguen ya lo cambiaré que no soy capaz de que sea más puto ancha la mierda de diálogo esta coño que asco de css
+        
       </div>
     </div>
   </Dialog>
@@ -55,7 +55,7 @@ const visible = ref(props.visibleDialog);
 const videoUrl = ref('');
 const searchVideo = async () => {
   try {
-    const response = await axios.get('https://cors-anywhere.herokuapp.com/https://www.youtube.com/results', {
+    const response = await axios.get('https://www.youtube.com/results', {
       params: {
         search_query: props.artista +" "+props.cancion,
       },
