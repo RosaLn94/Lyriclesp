@@ -124,42 +124,52 @@ function resolver() {
   align-items: center;
   width: 100%;
   margin: 10px 0;
+  padding: 0 5px;
 }
 
 .segmento {
-  width: 12%;
+  flex: 1;
+  margin: 0 2px;
   height: 5px;
   border-radius: 5px;
   transition: opacity 0.3s ease, background-color 0.3s ease;
 }
+
 .fixed-item {
-  height: 4rem;
-  /* Altura fija para cada elemento */
+  height: 3rem;
   display: flex;
   align-items: center;
-  /* Centra verticalmente el contenido */
   justify-content: center;
-  /* Centra horizontalmente el contenido */
-  padding: 0 1rem;
-  /* Relleno horizontal para que el texto no toque los bordes */
+  padding: 0 0.5rem;
   overflow: hidden;
-  /* Evita que el contenido se desborde */
   box-sizing: border-box;
-  /* Incluye padding y border en el tamaño total */
   text-align: center;
-  /* Alinea el texto horizontalmente en el centro */
-}
-
-.colorear{
-  width: 30px;
-  height: 2px;
-  border: solid 5px black;
-  border-radius: 5px;
+  flex-wrap: wrap;
+  margin: 0.5rem;
+  width: 100%;
 }
 
 .text-content {
   display: inline-block;
-  /* Hace que el span respete el ancho del contenedor */
+  font-size: 1.2rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
+button {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+.container {
+  max-width: 100%;
+  padding: 1rem;
 }
 
 @keyframes fadeIn {
@@ -191,5 +201,48 @@ function resolver() {
 
 .bgcolor {
   background-color: #21132c;
+  border-radius: 8px;
+  margin: 0.5rem;
 }
+
+@media (max-width: 768px) {
+  .fixed-item {
+    height: 2.5rem;
+    font-size: 0.9rem;
+  }
+
+  .text-content {
+    font-size: 1rem;
+  }
+
+  button {
+    font-size: 0.9rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .linea-colorear {
+    margin: 5px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .fixed-item {
+    height: 2rem;
+    font-size: 0.8rem;
+  }
+
+  .text-content {
+    font-size: 0.8rem;
+  }
+
+  button {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.6rem;
+  }
+
+  .linea-colorear {
+    margin: 3px 0;
+  }
+}
+
 </style>
