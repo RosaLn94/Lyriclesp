@@ -95,6 +95,7 @@ function obtenerLetraPorTitulo(titulo) {
 function skip() {
   if (skipped.value >= 6) {
     fail.value = true;
+    aciertosColor.value[skipped.value] = '#851d1d';
   } else {
     skipped.value++;
   }
