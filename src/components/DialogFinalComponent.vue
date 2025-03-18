@@ -1,40 +1,25 @@
 <template>
-  <Dialog v-model:visible="visible"
-          :draggable="true"
-          class="dialog-container">
+  <Dialog
+    v-model:visible="visible"
+    :draggable="true"
+    :modal="true"
+    :closable="true"
+    :style="{ width: '90vw', maxWidth: '900px', backgroundColor: 'rgba(0, 0, 0, 0.8)' }"
+    :contentStyle="{ padding: '0' }"
+  >
+    <div class="p-5 text-white text-center">
+      <!-- Título dinámico -->
+      <h2 class="text-2xl font-bold mb-4">{{ props.mensaje }}</h2>
+      <p class="m-4"> {{ artista }} - {{ cancion }}</p>
 
-    <!-- Encabezado con mensaje y botón de cerrar -->
-    <template #header>
-      <div class="flex justify-between items-center p-4 text-gray-200 rounded-t-lg">
-        <span class="text-xl font-semibold">{{ mensaje }}</span>
-        <button @click="closeDialog" class="text-gray-300 hover:text-gray-100">
-          <i class="pi pi-times"></i>
-        </button>
-      </div>
-    </template>
-
-    <!-- Contenido del diálogo -->
-    <div class="p-6 bg-gradient-to-br from-gray-700 via-gray-900 to-black text-gray-200 rounded-b-lg">
-      <!-- Artista y canción -->
-      <div class="text-gray-300 mb-4">
-        {{ artista }} - {{ cancion }}
-       
-      </div>
-
-      <!-- Video de YouTube -->
-      <div class="flex justify-center">
-        <!-- Contenedor del iframe ampliado -->
-        <div class="relative w-full max-w-7xl h-[80vh] rounded-lg overflow-hidden shadow-lg">
-          <iframe class="w-full h-full"
-                  :src="videoUrl" 
-                  title="YouTube video player" 
-                  frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                  referrerpolicy="strict-origin-when-cross-origin" 
-                  allowfullscreen></iframe>
-        </div>
-        
-      </div>
+      <!-- Video de YouTube en iframe -->
+      <iframe
+        width="100%"
+        height="450"
+        :src="videoUrl"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
     </div>
   </Dialog>
 </template>
@@ -44,7 +29,6 @@
 import { ref, onMounted } from "vue";
 import axios from 'axios';
 import Dialog from "primevue/dialog";
-import functions from 'firebase-functions';
 
 const props = defineProps({
   visibleDialog: {type: Boolean, default: false},
@@ -52,8 +36,7 @@ const props = defineProps({
   artista: null,
   cancion: null
 });
-//const apiKey= import.meta.env.VITE_APP_YOUTUBE_API_KEY;
-const apiKey = functions.config().youtube.apikey;
+const apiKey= import.meta.env.VITE_APP_YOUTUBE_API_KEY;
 const visible = ref(props.visibleDialog);
 const videoUrl = ref('');
 const searchVideo = async () => {

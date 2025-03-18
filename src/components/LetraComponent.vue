@@ -11,13 +11,22 @@
         </transition-group>
       </ul>
     </div>
+
+    <div class="linea-colorear">
+      <div
+        v-for="(color, index) in aciertosColor"
+        :key="index"
+        :style="{ backgroundColor: color, opacity: index < skipped ? 1 : 0.2 }"
+        class="segmento"
+      ></div>
+    </div>
     <div class="relative mt-4">
       <div class="w-full">
         <AutocompleteInput ref="autocompleteRef" class="w-full"></AutocompleteInput>
       </div>
-      <div class="flex justify-between mt-2">
+      <div class="flex justify-end space-x-4 mt-2">
         <button @click="skip"
-          class="w-[150px] bg-purple-800 text-white py-2 px-4 rounded-lg hover:bg-purple-500 transition duration-300 shadow-xl">
+          class="w-[150px] bg-transparent text-purple-800 py-2 px-4 rounded-lg hover:bg-purple-500 hover:text-white border border-purple-800 transition duration-300 shadow-xl">
           <span v-if="skipped < 6">Y yo que sé xd</span>
           <span v-else>Me rindo 😭</span>
         </button>
@@ -29,25 +38,22 @@
         </button>
       </div>
 
+
     </div>
 
 
   </div>
+
+
   <div v-if="fail">
-    <DialogFinalComponent
-    :visibleDialog="true"
-    :mensaje="'Bueno... la próxima vez será'"
-    :artista="artistaElegido"
-    :cancion="cancionElegida">
-  </DialogFinalComponent>
+    <DialogFinalComponent :visibleDialog="true" :mensaje="'Bueno... la próxima vez será'" :artista="artistaElegido"
+      :cancion="cancionElegida">
+    </DialogFinalComponent>
   </div>
   <div v-if="winwin">
-    <DialogFinalComponent
-    :visibleDialog="true"
-    :mensaje="'OLEEEEEEEEEEEEE'"
-    :artista="artistaElegido"
-    :cancion="cancionElegida">
-  </DialogFinalComponent>
+    <DialogFinalComponent :visibleDialog="true" :mensaje="'OLEEEEEEEEEEEEE'" :artista="artistaElegido"
+      :cancion="cancionElegida">
+    </DialogFinalComponent>
   </div>
 
 </template>
@@ -72,6 +78,8 @@ const skipped = ref(0);
 const fail = ref(false);
 const autocompleteRef = ref(null);
 const winwin = ref(false);
+const aciertosColor = ref(['#838fa3', '#838fa3', '#838fa3', '#838fa3', '#838fa3', '#838fa3', '#838fa3']);
+ 
 
 
 function obtenerLetraPorTitulo(titulo) {
@@ -90,18 +98,39 @@ function skip() {
   } else {
     skipped.value++;
   }
+  autocompleteRef.value = ""
 }
 
 function resolver() {
   const arrayRespuesta = autocompleteRef.value.query.split(" - ");
-  if(arrayRespuesta[0].toLowerCase() === artistaElegido.toLowerCase() && arrayRespuesta[1].toLowerCase() === cancionElegida.toLowerCase()){
-    winwin.value=true;
-  }else{
+  if (arrayRespuesta[0].toLowerCase() === artistaElegido.toLowerCase() && arrayRespuesta[1].toLowerCase() === cancionElegida.toLowerCase()) {
+    winwin.value = true;
+    aciertosColor.value[skipped.value] = '#0ec417';
+  } else if(arrayRespuesta[0].toLowerCase() === artistaElegido.toLowerCase() && arrayRespuesta[1].toLowerCase() != cancionElegida.toLowerCase()){
+    aciertosColor.value[skipped.value] = '#ddf542';
+    skip();
+  } else{
+    aciertosColor.value[skipped.value] = '#851d1d';
     skip();
   }
+
 }
 </script>
 <style scoped>
+.linea-colorear {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.segmento {
+  width: 12%;
+  height: 5px;
+  border-radius: 5px;
+  transition: opacity 0.3s ease, background-color 0.3s ease;
+}
 .fixed-item {
   height: 4rem;
   /* Altura fija para cada elemento */
@@ -118,6 +147,13 @@ function resolver() {
   /* Incluye padding y border en el tamaño total */
   text-align: center;
   /* Alinea el texto horizontalmente en el centro */
+}
+
+.colorear{
+  width: 30px;
+  height: 2px;
+  border: solid 5px black;
+  border-radius: 5px;
 }
 
 .text-content {
@@ -152,7 +188,7 @@ function resolver() {
   transform: translateY(10px);
 }
 
-.bgcolor{
+.bgcolor {
   background-color: #21132c;
 }
 </style>
